@@ -1,1 +1,2 @@
 task yapıldı
+taskın commiti için yapıldı
